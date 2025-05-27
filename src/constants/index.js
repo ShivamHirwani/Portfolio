@@ -12,7 +12,7 @@ export const myProjects = [
     ],
     href: "https://github.com/ShivamHirwani/Code_Buddy",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/code-buddy.png",
     tags: [
       {
         id: 1,
@@ -50,7 +50,7 @@ export const myProjects = [
     id: 4,
     title: "Project Management System",
     description:
-      "A collaborative platform for managing projects, tasks, and team communications with real-time updates.",
+      "SynergySphere is a full-stack project management web application designed to streamline team collaboration and task tracking—ideal for remote and hybrid teams.",
     subDescription: [
       "Built a powerful rendering engine using OpenGL and C++.",
       "Developed a physics engine with collision detection and particle effects.",
@@ -59,7 +59,7 @@ export const myProjects = [
     ],
     href: "https://github.com/ShivamHirwani/SynergySphere",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/projectmanagement.png",
     tags: [
       {
         id: 1,
@@ -84,14 +84,14 @@ export const myProjects = [
     description:
       "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      "Built a full-stack project management system using Next.js and Tailwind CSS for seamless UI/UX.",
+      "Integrated Clerk for authentication and Firebase for real-time collaboration features.",
+      "Used Drizzle ORM with Neon Serverless PostgreSQL to handle efficient and scalable database operations.",
+      "Enabled task assignment, progress tracking, team management, and notifications for an end-to-end workflow solution.",
     ],
     href: "https://github.com/ShivamHirwani/sat-watch-pro.git",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/satillite.png",
     tags: [
       {
         id: 1,
@@ -128,7 +128,7 @@ export const myProjects = [
     ],
     href: "https://github.com/ShivamHirwani/study-buddy",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/study-buddy.png",
     tags: [
       {
         id: 1,
@@ -161,16 +161,16 @@ export const myProjects = [
     id: 5,
     title: "Designer Buddy",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "An AI interior designer that can create a beautiful interior design for your home from a single picture.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
+      "Developed a responsive frontend using Next.js and Tailwind CSS.",
       "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
+      "I used gemini API for AI-driven interior design suggestions.",
       "Implemented custom widgets and plugin compatibility for extended functionality.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/interorDesign.png",
     tags: [
       {
         id: 1,
