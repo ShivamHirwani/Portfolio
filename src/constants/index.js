@@ -10,7 +10,7 @@ export const myProjects = [
       "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
       "Added payment systems through paypal.",
     ],
-    href: "",
+    href: "https://github.com/ShivamHirwani/Code_Buddy",
     logo: "",
     image: "/assets/projects/accessories.jpg",
     tags: [
@@ -39,6 +39,80 @@ export const myProjects = [
         name: "Sandbox",
         path: "/assets/logos/sandbox.png",
       },
+      {
+        id: 6,
+        name: "Gemini",
+        path: "/assets/logos/Gemini.svg",
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "Project Management System",
+    description:
+      "A collaborative platform for managing projects, tasks, and team communications with real-time updates.",
+    subDescription: [
+      "Built a powerful rendering engine using OpenGL and C++.",
+      "Developed a physics engine with collision detection and particle effects.",
+      "Implemented a scripting system for easy game customization.",
+      "Optimized performance with multi-threading and efficient memory management.",
+    ],
+    href: "https://github.com/ShivamHirwani/SynergySphere",
+    logo: "",
+    image: "/assets/projects/game-engine.jpg",
+    tags: [
+      {
+        id: 1,
+        name: "Next JS",
+        path: "/assets/logos/nextjs.png",
+      },
+      {
+        id: 2,
+        name: "tailwindcss",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+      {
+        id: 3,
+        name: "postgresql",
+        path: "/assets/logos/postgresql.svg",
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: "Predictive Maintenance for Satellite Systems",
+    description:
+      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+    subDescription: [
+      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
+      "Implemented API interactions using .NET Core for a robust backend.",
+      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
+      "Integrated SQLite for efficient client-side database storage.",
+    ],
+    href: "https://github.com/ShivamHirwani/sat-watch-pro.git",
+    logo: "",
+    image: "/assets/projects/blazor-app.jpg",
+    tags: [
+      {
+        id: 1,
+        name: "Next JS",
+        path: "/assets/logos/nextjs.png",
+      },
+      {
+        id: 2,
+        name: "Python",
+        path: "/assets/logos/python.png",
+      },
+      {
+        id: 3,
+        name: "pandas",
+        path: "/assets/logos/pandas.svg",
+      },
+      {
+        id: 4,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
     ],
   },
   {
@@ -52,7 +126,7 @@ export const myProjects = [
       "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
       "Connected to a secure SQLite database for user data storage.",
     ],
-    href: "",
+    href: "https://github.com/ShivamHirwani/study-buddy",
     logo: "",
     image: "/assets/projects/auth-system.jpg",
     tags: [
@@ -63,132 +137,68 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
+        name: "Next JS",
+        path: "/assets/logos/nextjs.png",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
         path: "/assets/logos/tailwindcss.svg",
       },
+      {
+        id: 5,
+        name: "Gemini",
+        path: "/assets/logos/Gemini.svg",
+      },
     ],
   },
   {
-    id: 3,
-    title: "Code Force Clone ",
+    id: 5,
+    title: "Designer Buddy",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "A fully customizable WordPress theme optimized for performance and SEO.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
+      "Integrated Tailwind CSS for modern styling and UI enhancements.",
+      "Optimized SEO and page speed using Vite.js for fast builds.",
+      "Implemented custom widgets and plugin compatibility for extended functionality.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/wordpress-theme.jpg",
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "Auth0",
+        path: "/assets/logos/auth0.svg",
       },
       {
         id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
+        name: "Next JS",
+        path: "/assets/logos/nextjs.png",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
         path: "/assets/logos/tailwindcss.svg",
       },
-    ],
-  },
-  {
-    id: 4,
-    title: "3D Game Website",
-    description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
-    subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/game-engine.jpg",
-    tags: [
       {
-        id: 1,
-        name: "C++",
-        path: "/assets/logos/cplusplus.svg",
-      },
-      {
-        id: 2,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 3,
-        name: "Git",
-        path: "/assets/logos/git.svg",
-      },
-      {
-        id: 4,
-        name: "Microsoft",
-        path: "/assets/logos/microsoft.svg",
+        id: 5,
+        name: "Gemini",
+        path: "/assets/logos/Gemini.svg",
       },
     ],
   },
-  // {
-  //   id: 5,
-  //   title: "WordPress Custom Theme",
-  //   description:
-  //     "A fully customizable WordPress theme optimized for performance and SEO.",
-  //   subDescription: [
-  //     "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-  //     "Integrated Tailwind CSS for modern styling and UI enhancements.",
-  //     "Optimized SEO and page speed using Vite.js for fast builds.",
-  //     "Implemented custom widgets and plugin compatibility for extended functionality.",
-  //   ],
-  //   href: "",
-  //   logo: "",
-  //   image: "/assets/projects/wordpress-theme.jpg",
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: "WordPress",
-  //       path: "/assets/logos/wordpress.svg",
-  //     },
-  //     {
-  //       id: 2,
-  //       name: "HTML5",
-  //       path: "/assets/logos/html5.svg",
-  //     },
-  //     {
-  //       id: 3,
-  //       name: "CSS3",
-  //       path: "/assets/logos/css3.svg",
-  //     },
-  //     {
-  //       id: 4,
-  //       name: "Vite.js",
-  //       path: "/assets/logos/vitejs.svg",
-  //     },
-  //   ],
-  // },
   // {
   //   id: 6,
   //   title: "Online Learning Platform",
@@ -231,7 +241,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/916359827643",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
