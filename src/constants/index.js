@@ -78,43 +78,43 @@ export const myProjects = [
       },
     ],
   },
-  {
-    id: 3,
-    title: "Predictive Maintenance for Satellite Systems",
-    description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
-    subDescription: [
-      "Built a full-stack project management system using Next.js and Tailwind CSS for seamless UI/UX.",
-      "Integrated Clerk for authentication and Firebase for real-time collaboration features.",
-      "Used Drizzle ORM with Neon Serverless PostgreSQL to handle efficient and scalable database operations.",
-      "Enabled task assignment, progress tracking, team management, and notifications for an end-to-end workflow solution.",
-    ],
-    href: "https://github.com/ShivamHirwani/sat-watch-pro.git",
-    logo: "",
-    image: "/assets/projects/satillite.png",
-    tags: [
-      {
-        id: 1,
-        name: "Next JS",
-        path: "/assets/logos/nextjs.png",
-      },
-      {
-        id: 2,
-        name: "Python",
-        path: "/assets/logos/python.png",
-      },
-      {
-        id: 3,
-        name: "pandas",
-        path: "/assets/logos/pandas.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-    ],
-  },
+  // {
+  // id: 3,
+  // title: "Predictive Maintenance for Satellite Systems",
+  // description:
+  //   "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+  // subDescription: [
+  //   "Built a full-stack project management system using Next.js and Tailwind CSS for seamless UI/UX.",
+  //   "Integrated Clerk for authentication and Firebase for real-time collaboration features.",
+  //   "Used Drizzle ORM with Neon Serverless PostgreSQL to handle efficient and scalable database operations.",
+  //   "Enabled task assignment, progress tracking, team management, and notifications for an end-to-end workflow solution.",
+  // ],
+  // href: "https://github.com/ShivamHirwani/sat-watch-pro.git",
+  // logo: "",
+  // image: "/assets/projects/satillite.png",
+  // tags: [
+  //   {
+  //     id: 1,
+  //     name: "Next JS",
+  //     path: "/assets/logos/nextjs.png",
+  //   },
+  //   {
+  //     id: 2,
+  //     name: "Python",
+  //     path: "/assets/logos/python.png",
+  //   },
+  //   {
+  //     id: 3,
+  //     name: "pandas",
+  //     path: "/assets/logos/pandas.svg",
+  //   },
+  //   {
+  //     id: 4,
+  //     name: "TailwindCSS",
+  //     path: "/assets/logos/tailwindcss.svg",
+  //   },
+  // ],
+  // },
   {
     id: 2,
     title: "Study Buddy (AI-Powered Study Assistant)",
@@ -199,43 +199,6 @@ export const myProjects = [
       },
     ],
   },
-  // {
-  //   id: 6,
-  //   title: "Online Learning Platform",
-  //   description:
-  //     "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
-  //   subDescription: [
-  //     "Built using Blazor WebAssembly for a seamless SPA experience.",
-  //     "Implemented video streaming with Azure Media Services.",
-  //     "Added a quiz system with dynamic question generation and real-time grading.",
-  //     "Integrated Stripe API for secure payment processing.",
-  //   ],
-  //   href: "",
-  //   logo: "",
-  //   image: "/assets/projects/elearning.jpg",
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: "Blazor",
-  //       path: "/assets/logos/blazor.svg",
-  //     },
-  //     {
-  //       id: 2,
-  //       name: "Azure",
-  //       path: "/assets/logos/azure.svg",
-  //     },
-  //     {
-  //       id: 3,
-  //       name: "Stripe",
-  //       path: "/assets/logos/stripe.svg",
-  //     },
-  //     {
-  //       id: 4,
-  //       name: "TailwindCSS",
-  //       path: "/assets/logos/tailwindcss.svg",
-  //     },
-  //   ],
-  // },
 ];
 
 export const mySocials = [
